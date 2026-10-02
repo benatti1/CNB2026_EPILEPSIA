@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.plot_dependencies/
+.matplotlib/
+.claude/
+.codex/
+.env
+.env.*
+*.pem
+*.key
+nul
+.DS_Store
+Thumbs.db

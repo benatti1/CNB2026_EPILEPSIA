@@ -1,0 +1,26 @@
+
+RESULTS
+
+A total of 320,419.0 epilepsy-related hospitalizations were analyzed across 27 Brazilian states (2021-2025), with an overall hospital mortality rate of 2.90%, mean cost of R$ 1,113.13 per admission, and average length of stay of 6.2 days.
+
+K-Means clustering analysis (K=4) identified four distinct healthcare assistance profiles with a Silhouette Score of 0.316, indicating moderate cluster separation:
+
+**Cluster 0 - Efficient Care - Lowest Mortality** (n=12 states):
+Mortality: 2.11% | Mean Cost: R$ 912.15 | Mean LOS: 5.1 days
+States: Rondônia, Amazonas, Pará, Maranhão, Ceará, Minas Gerais, Paraná, Santa Catarina, Rio Grande do Sul, Mato Grosso do Sul, Mato Grosso, Distrito Federal
+
+**Cluster 1 - High Resource / High Mortality** (n=8 states):
+Mortality: 3.55% | Mean Cost: R$ 1,279.12 | Mean LOS: 7.6 days
+States: Roraima, Rio Grande do Norte, Paraíba, Sergipe, Bahia, Espírito Santo, São Paulo, Goiás
+
+**Cluster 2 - Critical - Highest Mortality** (n=1 states):
+Mortality: 6.93% | Mean Cost: R$ 2,349.08 | Mean LOS: 9.5 days
+States: Alagoas
+
+**Cluster 3 - Cost-Effective - Moderate Outcomes** (n=6 states):
+Mortality: 3.46% | Mean Cost: R$ 713.12 | Mean LOS: 6.5 days
+States: Acre, Amapá, Tocantins, Piauí, Pernambuco, Rio de Janeiro
+
+
+
+These findings reveal significant regional disparities in epilepsy care across Brazil's public health system (SUS). The clustering analysis demonstrates that hospital mortality rates vary substantially among states, ranging from 2.11% to 6.93%, suggesting heterogeneous healthcare quality and resource allocation patterns.
