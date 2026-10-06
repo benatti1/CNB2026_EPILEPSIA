@@ -13,3 +13,7 @@ __pycache__/
 nul
 .DS_Store
 Thumbs.db
+
+# Figuras em português: manter somente as versões em inglês no repositório
+/clusters_epilepsia.png
+/elbow_method.png

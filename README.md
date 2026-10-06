@@ -76,6 +76,6 @@ O CSV contém dados agregados, sem registros individuais de pacientes. Ainda fal
 
 ## Conteúdo e atribuição
 
-Os arquivos científicos originais foram preservados neste pacote. Pastas de dependências, caches, configurações locais e arquivos auxiliares de assistentes não fazem parte da distribuição.
+O repositório mantém somente as versões em inglês das figuras. As duplicatas em português (`clusters_epilepsia.png` e `elbow_method.png`) foram retiradas da distribuição; a análise principal ainda pode gerá-las localmente. Pastas de dependências, caches, configurações locais e arquivos auxiliares de assistentes não fazem parte da distribuição.
 
 A fonte cartográfica é o IBGE, identificada no script do mapa. A fonte dos dados hospitalares é declarada no resumo como SIH/SUS. Nenhuma licença de redistribuição ou de reutilização foi acrescentada em nome do autor; a escolha de licença para código e demais materiais ainda precisa ser definida pelo titular.
