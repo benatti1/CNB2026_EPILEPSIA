@@ -17,7 +17,7 @@ Este pacote reúne o código, os dados agregados utilizados na análise, as tabe
 | Mapa dos grupos | [mapa_clusters_brasil_en.png](mapa_clusters_brasil_en.png) · [SVG](mapa_clusters_brasil_en.svg) |
 | Método do cotovelo | [elbow_method_en.png](elbow_method_en.png) |
 | Resultados em texto | [results_abstract.txt](results_abstract.txt) |
-| Resumo e referências (versão disponível; campo de instituição ainda provisório) | [PDF do trabalho](Unveiling%20care%20patterns_%20Unsupervised%20machine%20learning%20clustering%20of%20epilepsy%20hospitalizations%20in%20the%20brazilian%20public%20health%20system%20%282021-2025%29.pdf) |
+| Resumo e referências | [PDF do trabalho](Unveiling%20care%20patterns_%20Unsupervised%20machine%20learning%20clustering%20of%20epilepsy%20hospitalizations%20in%20the%20brazilian%20public%20health%20system%20%282021-2025%29.pdf) |
 | Origem e definição das variáveis | [DADOS.md](DADOS.md) |
 | Verificação de reprodução | [VALIDACAO.md](VALIDACAO.md) |
 
